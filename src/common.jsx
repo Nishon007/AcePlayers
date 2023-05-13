@@ -28,7 +28,7 @@ const Common = (props) => {
       </section>
       <footer class="bg-dark text-white py-3">
          <div class="container text-center">
-            <p class="mb-0">&copy; 2023 My Trading Firm. All Rights Reserved.</p>
+            <p class="mb-0">&copy; 2023 Our Trading Firm. All Rights Reserved.</p>
          </div>
       </footer>
    </>)
